@@ -1,2 +1,0 @@
-# MichaLev
-my HTML projects
